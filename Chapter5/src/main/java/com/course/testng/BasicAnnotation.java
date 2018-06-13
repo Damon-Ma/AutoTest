@@ -34,4 +34,14 @@ public class BasicAnnotation {
     public void afterclass(){
         System.out.println("AfterClass");
     }
+
+    @BeforeSuite
+    public void beforesuite(){
+        System.out.println("BeforeSuite");
+    }
+
+    @AfterSuite
+    public void aftersuite(){
+        System.out.println("=============AfterSuite==========");
+    }
 }
