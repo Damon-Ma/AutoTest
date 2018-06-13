@@ -42,6 +42,6 @@ public class BasicAnnotation {
 
     @AfterSuite
     public void aftersuite(){
-        System.out.println("AfterSuite");
+        System.out.println("=============AfterSuite==========");
     }
 }
