@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-<suite name="thread" parallel="tests" thread-count="3">
+<suite name="thread" parallel="methods" thread-count="3">
 
     <!--
     tests级别：不同的test tag下的用例可以在不同的线程下执行
@@ -21,10 +21,5 @@
         </classes>
     </test>
 
-    <test name = "thread1">
-        <classes>
-            <class name="com.course.testng.multiThread.MultiThreadOnXML"/>
-        </classes>
-    </test>
 
 </suite>
