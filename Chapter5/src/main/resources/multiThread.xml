@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-<suite name="thread" parallel="tests" thread-count="3">
-
+<suite name="thread" parallel="methods" thread-count="3">
     <!--
     tests级别：不同的test tag下的用例可以在不同的线程下执行
             相同的test tag下的用例只能在同一个线程中去执行
@@ -14,17 +13,9 @@
 
     xml文件配置这种方式不能指定线程池，只有方法上才可以指定线程池
     -->
-
-    <test name = "thread">
+    <test name = "MyTest">
         <classes>
-            <class name="com.course.testng.multiThread.MultiThreadOnXML"/>
+            <class name="com.course.testng.multiThread.MyTest"/>
         </classes>
     </test>
-
-    <test name = "thread1">
-        <classes>
-            <class name="com.course.testng.multiThread.MultiThreadOnXML"/>
-        </classes>
-    </test>
-
 </suite>
