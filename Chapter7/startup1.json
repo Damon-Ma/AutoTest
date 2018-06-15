@@ -5,7 +5,10 @@
       "uri":"/demo"
     },
     "response":{
-      "text":"This is my first moco "
+      "text":"这是我第一个moco",
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
     }
   }
 ]
