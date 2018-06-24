@@ -1,0 +1,15 @@
+[
+  {
+    "description":"这是我的第一个moco例子",
+    "request":{
+      "uri":"/demo"
+    },
+    "response":{
+      "text":"这是我第一个moco",
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+
+    }
+  }
+]
