@@ -6,7 +6,7 @@
 
 
     <groupId>com.course.code</groupId>
-    <artifactId>Chapter</artifactId>
+    <artifactId>AutoTest</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
@@ -18,10 +18,13 @@
 
     <modules>
 
-        <module>Chapter5</module>
-        <module>Chapter6</module>
-        <module>Chapter9</module>
-        <module>Chapter10</module>
+        <module>1.TestNGDemo</module>
+        <module>2.TestNGReportDemo</module>
+        <module>4.HttpClientDemo</module>
+        <module>5.SpringbootDemo</module>
+        <module>6.MybatisWithSpringbootDemo</module>
+        <module>7.MybatisWithMysqlDemo</module>
+        <module>UserManage</module>
     </modules>
 
 

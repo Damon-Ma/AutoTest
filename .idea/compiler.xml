@@ -6,18 +6,32 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Chapter10" />
-        <module name="Chapter5" />
-        <module name="Chapter6" />
-        <module name="Chapter9" />
+        <module name="HttpClientDemo" />
+        <module name="MybatisWithMysqlDemo" />
+        <module name="MybatisWithSpringbootDemo" />
+        <module name="SpringbootDemo" />
+        <module name="TestNGDemo" />
+        <module name="TestNGReportDemo" />
+        <module name="UserManage" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AutoTest" target="1.8" />
+      <module name="AutoTest (1)" target="1.8" />
       <module name="Chapter" target="1.8" />
       <module name="Chapter10" target="1.8" />
-      <module name="Chapter5" target="1.5" />
-      <module name="Chapter6" target="6" />
+      <module name="Chapter11" target="1.8" />
       <module name="Chapter9" target="1.8" />
+      <module name="HttpClientDemo" target="1.8" />
+      <module name="MybatisWithMysqlDemo" target="1.8" />
+      <module name="MybatisWithSpringbootDemo" target="1.8" />
+      <module name="MybatisWithSpringBootDemo" target="1.8" />
+      <module name="SpringBootDemo" target="1.8" />
+      <module name="SpringbootDemo" target="1.8" />
+      <module name="TestNG" target="1.8" />
+      <module name="TestNGDemo" target="1.8" />
+      <module name="TestNGReportDemo" target="6" />
+      <module name="UserManage" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

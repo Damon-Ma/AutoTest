@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Chapter.iml" filepath="$PROJECT_DIR$/Chapter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Chapter10/Chapter10.iml" filepath="$PROJECT_DIR$/Chapter10/Chapter10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Chapter5/Chapter5.iml" filepath="$PROJECT_DIR$/Chapter5/Chapter5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Chapter6/Chapter6.iml" filepath="$PROJECT_DIR$/Chapter6/Chapter6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Chapter9/Chapter9.iml" filepath="$PROJECT_DIR$/Chapter9/Chapter9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoTest.iml" filepath="$PROJECT_DIR$/AutoTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.HttpClientDemo/HttpClientDemo.iml" filepath="$PROJECT_DIR$/4.HttpClientDemo/HttpClientDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.MybatisWithMysqlDemo/MybatisWithMysqlDemo.iml" filepath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/MybatisWithMysqlDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.MybatisWithSpringbootDemo/MybatisWithSpringbootDemo.iml" filepath="$PROJECT_DIR$/6.MybatisWithSpringbootDemo/MybatisWithSpringbootDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.SpringbootDemo/SpringbootDemo.iml" filepath="$PROJECT_DIR$/5.SpringbootDemo/SpringbootDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.TestNGDemo/TestNGDemo.iml" filepath="$PROJECT_DIR$/1.TestNGDemo/TestNGDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.TestNGReportDemo/TestNGReportDemo.iml" filepath="$PROJECT_DIR$/2.TestNGReportDemo/TestNGReportDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserManage/UserManage.iml" filepath="$PROJECT_DIR$/UserManage/UserManage.iml" />
     </modules>
   </component>
 </project>
