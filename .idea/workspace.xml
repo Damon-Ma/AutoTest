@@ -1,68 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="053accc9-424b-4f38-82a2-158ed43edd70" name="Default" comment="打包jar">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ant.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="053accc9-424b-4f38-82a2-158ed43edd70" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/cases/AddUserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/cases/AddUserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/cases/GetUserInfoListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/cases/GetUserInfoListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/cases/GetUserInfoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/cases/GetUserInfoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/cases/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/cases/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/cases/UpdateUserInfoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/cases/UpdateUserInfoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/config/TestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/config/TestConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/model/GetUserInfoCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/model/GetUserInfoCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/model/InterfaceName.java" beforeDir="false" afterPath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/model/InterfaceName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/utils/ConfigFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/java/com/course/utils/ConfigFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/resources/mapper/SQLMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/resources/mapper/SQLMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/resources/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/7.MybatisWithMysqlDemo/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserManage/UserManage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UserManage/UserManage.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserManage/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserManage/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserManage/src/main/java/com/course/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserManage/src/main/java/com/course/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserManage/src/main/java/com/course/controller/UserManage.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserManage/src/main/java/com/course/controller/UserManage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserManage/src/main/resources/mapper/mysql.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserManage/src/main/resources/mapper/mysql.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/userManage.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/userManage.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <ignored path="$PROJECT_DIR$/Chapter5/target/" />
@@ -105,20 +47,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/7.MybatisWithMysqlDemo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="68" column="17" lean-forward="true" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
+            <state relative-caret-position="177">
+              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/resources/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+              <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -136,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/UserManage/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
-              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -213,8 +155,8 @@
         <option value="$PROJECT_DIR$/UserManage/src/main/java/com/course/controller/UserManage.java" />
         <option value="$PROJECT_DIR$/UserManage/src/main/java/com/course/Application.java" />
         <option value="$PROJECT_DIR$/UserManage/pom.xml" />
-        <option value="$PROJECT_DIR$/7.MybatisWithMysqlDemo/pom.xml" />
         <option value="$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/7.MybatisWithMysqlDemo/pom.xml" />
       </list>
     </option>
   </component>
@@ -287,6 +229,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="7.MybatisWithMysqlDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
@@ -565,7 +513,7 @@
       <workItem from="1529995130562" duration="2662000" />
       <workItem from="1529998720444" duration="915000" />
       <workItem from="1530005054547" duration="1789000" />
-      <workItem from="1530059396835" duration="2166000" />
+      <workItem from="1530059396835" duration="3393000" />
     </task>
     <task id="LOCAL-00001" summary="增加第九章HttpClient">
       <created>1529148157105</created>
@@ -595,13 +543,17 @@
       <option name="project" value="LOCAL" />
       <updated>1529827582764</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="打包接口代码和测试脚本">
+      <created>1530062351257</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1530062351257</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="D__Desktop_AutoTest_AutoTest_7_MybatisWithMysqlDemo_src_main_resources_testng_xml - 2018.06.26 at 10h 40m 36s.xml">
-      <configuration name="D:/Desktop/AutoTest/AutoTest/7.MybatisWithMysqlDemo/src/main/resources/testng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="D__Desktop_AutoTest_AutoTest_7_MybatisWithMysqlDemo_src_main_resources_testng_xml - 2018.06.26 at 10h 41m 55s.xml">
       <configuration name="D:/Desktop/AutoTest/AutoTest/7.MybatisWithMysqlDemo/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
@@ -629,9 +581,12 @@
     <history-entry file="D__Desktop_AutoTest_AutoTest_7_MybatisWithMysqlDemo_src_main_resources_testng_xml - 2018.06.26 at 11h 19m 59s.xml">
       <configuration name="D:/Desktop/AutoTest/AutoTest/7.MybatisWithMysqlDemo/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="D__Desktop_AutoTest_AutoTest_7_MybatisWithMysqlDemo_src_main_resources_testng_xml - 2018.06.27 at 09h 16m 34s.xml">
+      <configuration name="D:/Desktop/AutoTest/AutoTest/7.MybatisWithMysqlDemo/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165632000" />
+    <option name="totallyTimeSpent" value="166859000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -643,7 +598,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="934" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="934" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -658,6 +613,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37766623" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32873276" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.30363864" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32998747" />
@@ -674,7 +630,6 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.30363864" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -752,7 +707,8 @@
     <MESSAGE value="增加第九章HttpClient" />
     <MESSAGE value="增加第10章SpringBoot" />
     <MESSAGE value="重新规范命名" />
-    <option name="LAST_COMMIT_MESSAGE" value="重新规范命名" />
+    <MESSAGE value="打包接口代码和测试脚本" />
+    <option name="LAST_COMMIT_MESSAGE" value="打包接口代码和测试脚本" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1087,24 +1043,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/UserManage/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7.MybatisWithMysqlDemo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="68" column="17" lean-forward="true" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.MybatisWithMysqlDemo/src/main/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        <state relative-caret-position="177">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
         </state>
       </provider>
     </entry>
