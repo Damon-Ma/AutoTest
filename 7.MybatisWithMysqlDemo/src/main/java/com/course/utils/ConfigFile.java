@@ -13,9 +13,9 @@ public class ConfigFile {
         String uri ="";
         String testUrl;
 
-        if (name==InterfaceName.GETUSERLIST){
-            uri=bundle.getString("getUserList.uri");
-        }
+//        if (name==InterfaceName.GETUSERLIST){
+//            uri=bundle.getString("getUserList.uri");
+//        }
         if (name==InterfaceName.GETUSERINFO){
             uri=bundle.getString("getUserInfo.uri");
         }
@@ -27,6 +27,9 @@ public class ConfigFile {
         }
         if (name==InterfaceName.UPDATEUSERINFO){
             uri=bundle.getString("updateUserInfo.uri");
+        }
+        if (name==InterfaceName.DELETEUSER){
+            uri=bundle.getString("deleteUser.uri");
         }
         testUrl = address + uri;
         return testUrl;

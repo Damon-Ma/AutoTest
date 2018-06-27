@@ -3,6 +3,7 @@ package com.course.controller;
 import com.course.model.User;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
+import lombok.extern.log4j.Log4j;
 import lombok.extern.log4j.Log4j2;
 import org.mybatis.spring.SqlSessionTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.List;
 import java.util.Objects;
 
-@Log4j2
+@Log4j
 @RestController
 @Api(value = "v1",description = "用户管理系统接口")
 @RequestMapping(value = "v1")
@@ -52,6 +53,7 @@ public class UserManage {
     @RequestMapping(value = "/signIn",method = RequestMethod.POST)
     @ApiOperation(value = "注册接口",httpMethod = "POST")
     public Boolean addUser(@RequestBody User user){
+        log.info(user.toString());
         try {
             result = template.insert("addUser",user);
             log.info("注册成功");
@@ -100,16 +102,18 @@ public class UserManage {
     }
 
     //admin查询用户信息
-    @RequestMapping(value = "selectUserInfo",method = RequestMethod.POST)
+    @RequestMapping(value = "getUserInfo",method = RequestMethod.POST)
     @ApiOperation(value = "查找用户信息",httpMethod = "POST")
-    public String selectUserInfo(@RequestBody User user,
-                                       HttpServletRequest request){
+    public List<User> getUserInfo(@RequestBody User user,
+                                  HttpServletRequest request){
+        log.info("查询用户信息，当前用户是："+ getUserName(request));
         if (isAdmin(request)){
-            List<User> users = template.selectList("selectUserInfo",user);
+
+            List<User> users = template.selectList("getUserInfo",user);
             for (int i =0;i<users.size();i++){
                 log.info(users.get(i).toString());
             }
-            return users.toString();
+            return users;
         }
         return null;
     }
@@ -123,6 +127,7 @@ public class UserManage {
         String CookiesUser = getUserName(request);
 
         if(CookiesUser.equals(user.getUserName()) || isAdmin(request)){
+            log.info("开始执行删除用户sql语句,"+"当前用户名："+user.getUserName());
             result = template.update("deleteUser",user);
             if (result>0){
                 log.info(user.getUserName()+"用户删除成功！");

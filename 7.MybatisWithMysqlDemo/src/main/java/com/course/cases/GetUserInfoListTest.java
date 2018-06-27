@@ -10,11 +10,13 @@ import java.io.IOException;
 
 public class GetUserInfoListTest {
 
-    @Test(dependsOnGroups = "loginTrue",description = "获取用户性别为男的列表")
+    @Test(dependsOnGroups = "adminLogin",description = "获取用户性别为男的列表")
     public void getUserInfoList() throws IOException {
         SqlSession session = DatabaseUtil.getSqlSession();
-        GetUserListCase getUserInfoListCase = session.selectOne("getUserListCase",1);
+        GetUserListCase getUserInfoListCase = session.selectOne("getUserInfoCase",1);
         System.out.println(getUserInfoListCase.toString());
-        System.out.println(TestConfig.getUserListUrl);
+        System.out.println(TestConfig.getUserInfoUrl);
+
+
     }
 }

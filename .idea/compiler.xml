@@ -26,12 +26,13 @@
       <module name="MybatisWithMysqlDemo" target="1.8" />
       <module name="MybatisWithSpringbootDemo" target="1.8" />
       <module name="MybatisWithSpringBootDemo" target="1.8" />
+      <module name="selenium" target="1.8" />
       <module name="SpringBootDemo" target="1.8" />
       <module name="SpringbootDemo" target="1.8" />
       <module name="TestNG" target="1.8" />
       <module name="TestNGDemo" target="1.8" />
       <module name="TestNGReportDemo" target="6" />
-      <module name="UserManage" target="1.8" />
+      <module name="UserManage" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

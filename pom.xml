@@ -25,6 +25,7 @@
         <module>6.MybatisWithSpringbootDemo</module>
         <module>7.MybatisWithMysqlDemo</module>
         <module>UserManage</module>
+        <module>selenium</module>
     </modules>
 
 
